@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LaundryRio — Laundry Bersih, Hidup Nyaman</title>
+    <title>LaundryRian — Laundry Bersih, Hidup Nyaman</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -120,7 +120,7 @@
 <body>
 
 <nav>
-    <a href="#" class="nav-brand">🧺 Laundry<span class="dot">Rio</span></a>
+    <a href="#" class="nav-brand">🧺 Laundry<span class="dot">Rian</span></a>
     <ul class="nav-links">
         <li><a href="#tentang">Tentang</a></li>
         <li><a href="#layanan">Layanan</a></li>
@@ -143,8 +143,8 @@
             <a href="#layanan" class="btn-ghost">📋 Lihat Layanan</a>
         </div>
         <div class="hero-stats">
-            <div><div class="stat-angka">4+</div><div class="stat-label">Kota Cabang</div></div>
-            <div><div class="stat-angka">1K+</div><div class="stat-label">Customer Puas</div></div>
+            <div><div class="stat-angka">4+</div><div class="stat-label">cabang wilayah</div></div>
+            <div><div class="stat-angka">100+</div><div class="stat-label">Customer Puas</div></div>
             <div><div class="stat-angka">6</div><div class="stat-label">Jenis Layanan</div></div>
             <div><div class="stat-angka">24/7</div><div class="stat-label">Tracking Online</div></div>
         </div>
@@ -156,16 +156,15 @@
         <div class="tentang-wrap">
             <div class="tentang-kiri reveal">
                 <div class="big-icon">🧺</div>
-                <h3>LaundryRio</h3>
+                <h3>LaundryRian</h3>
                 <p>Sistem laundry modern dengan tracking real-time via WhatsApp</p>
             </div>
             <div class="reveal">
                 <div class="sec-label">Tentang Kami</div>
-                <h2 class="sec-title">Mengapa Pilih LaundryRio?</h2>
+                <h2 class="sec-title">Mengapa Pilih LaundryRian?</h2>
                 <p class="sec-sub">Bukan sekadar laundry biasa. Dengan teknologi tracking modern, Anda bisa memantau cucian kapan saja dan dari mana saja.</p>
                 <ul class="poin-list">
                     <li><span class="poin-cek">✓</span><div><strong>Tracking Real-Time</strong> — Pantau status laundry via kode transaksi atau nomor HP, kapan saja.</div></li>
-                    <li><span class="poin-cek">✓</span><div><strong>Notifikasi WhatsApp</strong> — Dapat pesan WA otomatis saat laundry diterima dan selesai.</div></li>
                     <li><span class="poin-cek">✓</span><div><strong>Harga Transparan</strong> — Tidak ada biaya tersembunyi, dihitung per kg, terlihat di nota.</div></li>
                     <li><span class="poin-cek">✓</span><div><strong>Multi Cabang</strong> — Tersedia di 4 kota besar, mudah dijangkau dari mana saja.</div></li>
                     <li><span class="poin-cek">✓</span><div><strong>Tepat Waktu</strong> — Estimasi selesai jelas sejak awal, kami komitmen menyelesaikan tepat waktu.</div></li>
@@ -198,10 +197,10 @@
         <div class="text-center reveal">
             <div class="sec-label">Lokasi Kami</div>
             <h2 class="sec-title">Cabang Terdekat Anda</h2>
-            <p class="sec-sub">Temukan outlet LaundryRio di wilayah Anda. Semua cabang terintegrasi dalam satu sistem.</p>
+            <p class="sec-sub">Temukan outlet LaundryRian di wilayah Anda. Semua cabang terintegrasi dalam satu sistem.</p>
         </div>
         <div class="cabang-grid">
-            <div class="cabang-card reveal"><div class="cabang-kode">JKT</div><div class="cabang-nama">Cabang indramayu</div><div class="cabang-detail"><p>📍 Jl. Sudirman No. 10, Jakarta Pusat</p><p>📞 021-12345678</p><p>✅ Buka &amp; Menerima Laundry</p></div></div>
+            <div class="cabang-card reveal"><div class="cabang-kode">IMYU</div><div class="cabang-nama">Cabang indramayu</div><div class="cabang-detail"><p>📍 Jl. Sudirman No. 10, Jakarta Pusat</p><p>📞 021-12345678</p><p>✅ Buka &amp; Menerima Laundry</p></div></div>
             <div class="cabang-card reveal"><div class="cabang-kode">BDG</div><div class="cabang-nama">Cabang Bandung</div><div class="cabang-detail"><p>📍 Jl. Asia Afrika No. 5, Bandung</p><p>📞 022-87654321</p><p>✅ Buka &amp; Menerima Laundry</p></div></div>
             <div class="cabang-card reveal"><div class="cabang-kode">SBY</div><div class="cabang-nama">Cabang Surabaya</div><div class="cabang-detail"><p>📍 Jl. Pemuda No. 20, Surabaya</p><p>📞 031-11223344</p><p>✅ Buka &amp; Menerima Laundry</p></div></div>
             <div class="cabang-card reveal"><div class="cabang-kode">YGY</div><div class="cabang-nama">Cabang Yogyakarta</div><div class="cabang-detail"><p>📍 Jl. Malioboro No. 15, Yogyakarta</p><p>📞 0274-556677</p><p>✅ Buka &amp; Menerima Laundry</p></div></div>
@@ -213,15 +212,14 @@
     <div class="container">
         <div class="text-center reveal">
             <div class="sec-label">Alur Layanan</div>
-            <h2 class="sec-title">Cara Kerja LaundryRio</h2>
+            <h2 class="sec-title">Cara Kerja LaundryRian</h2>
             <p class="sec-sub">Proses mudah dari antar sampai ambil, semua bisa dipantau secara online.</p>
         </div>
         <div class="cara-grid">
             <div class="cara-item reveal"><div class="cara-no">1</div><div class="cara-judul">Antar ke Cabang</div><div class="cara-desc">Datang ke cabang terdekat dan serahkan pakaian Anda ke petugas kami.</div></div>
             <div class="cara-item reveal"><div class="cara-no">2</div><div class="cara-judul">Terima Nota &amp; Kode</div><div class="cara-desc">Dapatkan nota beserta kode transaksi unik untuk memantau status laundry.</div></div>
             <div class="cara-item reveal"><div class="cara-no">3</div><div class="cara-judul">Pantau Status</div><div class="cara-desc">Cek status kapan saja menggunakan kode transaksi atau nomor HP Anda.</div></div>
-            <div class="cara-item reveal"><div class="cara-no">4</div><div class="cara-judul">Notif WA Otomatis</div><div class="cara-desc">Dapat notifikasi WhatsApp saat laundry diterima dan saat sudah selesai.</div></div>
-            <div class="cara-item reveal"><div class="cara-no">5</div><div class="cara-judul">Ambil Laundry</div><div class="cara-desc">Setelah notif selesai, datang ke cabang dan ambil pakaian bersih Anda.</div></div>
+            <div class="cara-item reveal"><div class="cara-no">4</div><div class="cara-judul">Ambil Laundry</div><div class="cara-desc">Setelah notif selesai, datang ke cabang dan ambil pakaian bersih Anda.</div></div>
         </div>
     </div>
 </section>
@@ -239,7 +237,7 @@
 </section>
 
 <footer>
-    <p>© <span id="thn"></span> <strong style="color:#fff">LaundryRio</strong> — Semua hak dilindungi.</p>
+    <p>© <span id="thn"></span> <strong style="color:#fff">LaundryRian</strong> — Semua hak dilindungi.</p>
     <p style="margin-top:.5rem"><a href="/login">Login Admin</a> &nbsp;·&nbsp; <a href="/cek-status">Halaman Cek Status</a></p>
 </footer>
 
