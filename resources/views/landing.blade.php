@@ -219,7 +219,7 @@
             <div class="cara-item reveal"><div class="cara-no">1</div><div class="cara-judul">Antar ke Cabang</div><div class="cara-desc">Datang ke cabang terdekat dan serahkan pakaian Anda ke petugas kami.</div></div>
             <div class="cara-item reveal"><div class="cara-no">2</div><div class="cara-judul">Terima Nota &amp; Kode</div><div class="cara-desc">Dapatkan nota beserta kode transaksi unik untuk memantau status laundry.</div></div>
             <div class="cara-item reveal"><div class="cara-no">3</div><div class="cara-judul">Pantau Status</div><div class="cara-desc">Cek status kapan saja menggunakan kode transaksi atau nomor HP Anda.</div></div>
-            <div class="cara-item reveal"><div class="cara-no">4</div><div class="cara-judul">Ambil Laundry</div><div class="cara-desc">Setelah notif selesai, datang ke cabang dan ambil pakaian bersih Anda.</div></div>
+            <div class="cara-item reveal"><div class="cara-no">4</div><div class="cara-judul">Ambil Laundry</div><div class="cara-desc">Membawa struk laundry, datang ke cabang dan ambil pakaian bersih Anda.</div></div>
         </div>
     </div>
 </section>
