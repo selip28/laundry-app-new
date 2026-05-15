@@ -27,12 +27,12 @@
                 <label class="form-label fw-semibold">Harga per Kg (Rp) <span class="text-danger">*</span></label>
                 <div class="input-group">
                     <span class="input-group-text">Rp</span>
-                    <input type="number" name="harga_per_kg"
-                           class="form-control @error('harga_per_kg') is-invalid @enderror"
-                           value="{{ old('harga_per_kg') }}"
-                           placeholder="Contoh: 7000"
-                           min="100" step="500"
-                           required>
+                    <input type="number"
+                            name="harga_per_kg"
+                            class="form-control"
+                            min="0"
+                            step="1"
+                            required>
                     <span class="input-group-text">/kg</span>
                 </div>
                 @error('harga_per_kg')<div class="invalid-feedback d-block">{{ $message }}</div>@enderror
